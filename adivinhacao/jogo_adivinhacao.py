@@ -78,4 +78,5 @@ def jogo_adivinhacao():
 
         if chanses <= 0:
             print("vc morreu de vez")
-jogo_adivinhacao()
+if "__main__"== __name__:
+    jogo_adivinhacao()
