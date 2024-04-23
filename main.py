@@ -2,6 +2,9 @@
 #CRIADO POR DAVID#
 import os
 from adivinhacao.jogo_adivinhacao import*
+from jogo_velha.jogo_da_velha import*
+from jogo_forca import*
+from funcoes_forca import*
 os.system("cls")
 
 print("""        
@@ -25,8 +28,14 @@ print("""
          4- Adivinha ou MORRA!""")
 jogo_escolhido=int(input("escolha um dos jogos digitando o numero: "))
 
+if jogo_escolhido==1:
+    jogo_da_velha()
+if jogo_escolhido==2:
+    jogo_da_forca()
+
 if jogo_escolhido ==4:
     jogo_adivinhacao()
+
 
 
                                                        

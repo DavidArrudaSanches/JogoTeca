@@ -1,0 +1,12 @@
+elif tema==2:
+            palavras=open("Frutas.txt", "r", encoding='utf8')
+            linhas=palavras.readline()
+            correção_linhas=linhas.split("\n")
+            palavras_aleatorias=random.choice(correção_linhas)
+            return palavras_aleatorias
+    elif tema==3:
+            palavras=open("objetos.txt", "r", encoding='utf8')
+            linhas=palavras.readline()
+            correção_linhas=linhas.split("\n")
+            palavras_aleatorias=random.choice(correção_linhas)
+            return palavras_aleatorias

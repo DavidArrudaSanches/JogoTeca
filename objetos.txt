@@ -1,0 +1,60 @@
+Caneta
+Livro
+Mesa
+Cadeira
+Computador
+Telefone
+Garfo
+Faca
+Colher
+Copo
+Prato
+Panela
+Frigideira
+Geladeira
+Fogão
+Televisão
+Controle remoto
+Sofá
+Travesseiro
+Cobertor
+Relógio
+Espelho
+Escova de dentes
+Pasta de dentes
+Sabonete
+Toalha
+Escova de cabelo
+Secador de cabelo
+Shampoo
+Condicionador
+Tesoura
+Fita adesiva
+Martelo
+Pregos
+Chave de fenda
+Chave inglesa
+Parafuso
+Lanterna
+Pilhas
+Carregador
+Fone de ouvido
+Canivete
+Mochila
+Bolsa
+Carteira
+Óculos
+Chapéu
+Guarda-chuva
+Bicicleta
+Skate
+Patins
+Bola
+Raquete
+Luvas
+Escova de limpeza
+Vassoura
+Pá
+Rodo
+Balde
+Esfregão
