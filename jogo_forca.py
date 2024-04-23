@@ -6,7 +6,7 @@ def jogo_da_forca():
         palavrasecreta=escolhe_palavra("animais")
 
     elif escolhe_tema=="2":
-        palavrasecreta=escolhe_palavra("Frutas")
+        palavrasecreta=escolhe_palavra("fruta")
 
     elif escolhe_tema=="3":
         palavrasecreta=escolhe_palavra("objetos")
