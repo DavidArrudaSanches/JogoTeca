@@ -1,3 +1,4 @@
+
 def jogoppt () :
     import random
     jogador= input("escolha a sua jogada: pedra,papel,tesoura: ").lower()
@@ -29,3 +30,4 @@ def jogoppt () :
             print("o jogador ganhou")
         else:
             print("vitoria da maquina")
+            
